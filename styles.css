@@ -5,7 +5,7 @@ main{
     width: 90%;
     margin-left: 5%;
     height: 90vh;
-    margin-top: 10%;
+    margin-top: 2%;
     background-color: white;
     border-radius: 50px 50px 0px 0px;
 }
@@ -89,7 +89,7 @@ h1{
         width: 40%;
         margin: auto;
         height: 90vh;
-        margin-top: 10%;
+        margin-top: 2%;
         background-color: white;
         border-radius: 50px 50px 0px 0px;
     }
@@ -160,7 +160,7 @@ h1{
         width: 40%;
         margin: auto;
         height: 90vh;
-        margin-top: 10%;
+        margin-top: 2%;
         background-color: white;
         border-radius: 50px 50px 0px 0px;
     }
@@ -181,7 +181,7 @@ h1{
         width: 30%;
         margin: auto;
         height: 90vh;
-        margin-top: 10%;
+        margin-top: 2%;
         background-color: white;
         border-radius: 50px 50px 0px 0px;
     }
